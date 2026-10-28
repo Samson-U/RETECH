@@ -1,0 +1,2 @@
+function About() { return <div className="page-shell about-page"><p className="eyebrow">The ReTech point of view</p><h1>Better objects.<br /><em>Longer lives.</em></h1><div className="about-copy"><p className="lead">Technology moves quickly. That doesn’t mean everything it leaves behind should.</p><p>ReTech is a curated marketplace for pre-loved electronics: a slower, more considered way to buy and sell the tools that shape everyday life. We look for quality, clarity, and a reason to keep things in motion.</p></div></div> }
+export default About
